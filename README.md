@@ -1,9 +1,14 @@
+
+
 # template-vite-js-tailwind-v3
 
 - **template of:** vite + vanilaJS
 - **tailwindcss:** v3.x
 
-## Started
+## This is my admin-dashboard submission for The Odin Project. 
+### build with tailwind 
+
+## Start
 
 ```bash
 yarn
